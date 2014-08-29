@@ -16,7 +16,8 @@
     },
     "require": {
         "aws/aws-sdk-php": "dev-master",
-        "dropbox/dropbox-sdk": "1.1.*"
+        "dropbox/dropbox-sdk": "1.1.*",
+        "slim/slim": "2.*"
     },
     "autoload": {
         "psr-0": { "Web2project": "src/"}
